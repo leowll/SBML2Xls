@@ -1,0 +1,8 @@
+*.jar
+SBML2Xls/test/
+SBML2Xls/.settings/
+SBML2Xls/.classpath
+SBML2Xls/.project
+*.xml
+*.xls
+*.log
